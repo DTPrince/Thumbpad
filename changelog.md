@@ -14,5 +14,3 @@ v3
 
 
 
-future updates:
-maybe alignment arms inside the housings to keep contact arms fully centered instead of fillet/chamfer pseudo-alignment
