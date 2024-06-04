@@ -10,7 +10,8 @@ v3
 - contact arms have fillets on the tips to improve rocking.
 	- may be irrelevant when fully assembled
 
-
-
-
+v4
+- added pockets for the swivel contact/arms for a tight fit to remove excess wiggling
+- added some fusions for assembly exports and explode assemblies
+- top was flattened so it can print on it's top without ugly support surfaces
 
