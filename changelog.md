@@ -15,3 +15,12 @@ v4
 - added some fusions for assembly exports and explode assemblies
 - top was flattened so it can print on it's top without ugly support surfaces
 
+v5
+- Changed switches to smaller-micro forms
+ - Includes cutouts on the ends for tabbed SMD mounts
+ - shrank footprint considerably, further xy reductions are mostly in the realm of choosing a new connector interface
+- changed PCB out to new PCB
+- Socket now extends down to the PCB and outershell collars for back-side M3 screws
+- fasteners updated
+- naming convention cleaned up more
+- fusions for STL exports made separate parts

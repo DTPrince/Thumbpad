@@ -1,12 +1,8 @@
 # Thumbpad
 3d CAD repo for thumb pad
 
+[<img src ="omron_micro_stick/screenshots/explodedassm.png"/>]
 
-## TODO (lol)
+## TODO 
 
-add blocks to 3d-print pcb for pins/bolts clearance
-
-create sleeve/housing/whatever to mount to top socket to be generated on the keyboard
-- maybe heat set inserts to keep the surface clean
-
-create square socket for keyboard generator
+update design tolerances once switches come in the mail
